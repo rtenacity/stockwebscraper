@@ -1,0 +1,30 @@
+American Express Company; Near Fair Value; 10% Est. Return; 19.9; 2.3 
+Amgen, Inc.; Near Fair Value; -3% Est. Return; 21.0; 2.6 
+Apple Inc; Overvalued; -7% Est. Return; 16.4; Apple Inc was missing information. click here: https://finance.yahoo.com/quote/AAPL/ 
+Boeing Co; Overvalued; 
+Caterpillar Inc.; Near Fair Value; -0% Est. Return; 34.3; 2.4 
+Cisco Systems Inc; Overvalued; -14% Est. Return; 11.8; 2.5 
+Chevron Corporation; Overvalued; -17% Est. Return; 43.0; 2.3 
+Goldman Sachs Group Inc; Undervalued; 5% Est. Return; 25.0; 2.2 
+Home Depot Inc; Overvalued; -11% Est. Return; 12.6; 2.1 
+Honeywell International Inc; Near Fair Value; -2% Est. Return; 29.1; 2.3 
+IBM Common Stock; Overvalued; -8% Est. Return; 14.8; 2.6 
+Intel Corporation; Near Fair Value; 1% Est. Return; 16.7; 2.9 
+Johnson & Johnson; Overvalued; -14% Est. Return; 25.1; 2.3 
+Coca-Cola Co; Overvalued; -15% Est. Return; 22.5; 2.1 
+JPMorgan Chase & Co; Near Fair Value; -5% Est. Return; 28.9; 2.4 
+McDonald's Corp; Overvalued; -18% Est. Return; 24.5; 2.1 
+3M Co; Overvalued; -7% Est. Return; 33.6; 3M Co was missing information. click here: https://finance.yahoo.com/quote/MMM/ 
+Merck & Co., Inc.; Near Fair Value; 5% Est. Return; 21.9; 2.2 
+Microsoft Corporation; Near Fair Value; 2% Est. Return; 13.8; Microsoft Corporation was missing information. click here: https://finance.yahoo.com/quote/MSFT/ 
+Nike Inc; Near Fair Value; 2% Est. Return; 16.8; 2.1 
+Procter & Gamble Co; Overvalued; -21% Est. Return; 27.0; 2.4 
+Travelers Companies Inc; Near Fair Value; 3% Est. Return; 19.4; 2.8 
+UnitedHealth Group Inc; Overvalued; -2% Est. Return; 17.5; UnitedHealth Group Inc was missing information. click here: https://finance.yahoo.com/quote/UNH/ 
+Salesforce Inc; Overvalued; -40% Est. Return; 13.2; Salesforce Inc was missing information. click here: https://finance.yahoo.com/quote/CRM/ 
+Verizon Communications Inc.; Near Fair Value; 2% Est. Return; 18.3; 2.8 
+Visa Inc; Near Fair Value; 6% Est. Return; 16.1; Visa Inc was missing information. click here: https://finance.yahoo.com/quote/V/ 
+Walgreens Boots Alliance Inc; Near Fair Value; 2% Est. Return; 18.4; Walgreens Boots Alliance Inc was missing information. click here: https://finance.yahoo.com/quote/WBA/ 
+Walmart Inc; Overvalued; -18% Est. Return; 27.4; 2 
+Walt Disney Co; Near Fair Value; 20% Est. Return; 14.3; 2 
+Dow Inc; Undervalued; 10% Est. Return; 
